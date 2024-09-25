@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C# Projects\\OOP_lab1_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8776F6A8-70E3-4EFD-BAC8-8BF575D61E26}|TestTriangle\\TestTriangle.csproj|c:\\c# projects\\oop_lab1_1\\testtriangle\\testtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8776F6A8-70E3-4EFD-BAC8-8BF575D61E26}|TestTriangle\\TestTriangle.csproj|solutionrelative:testtriangle\\testtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EFC529-88A6-44FC-8176-761831E13369}|OOP_lab1_1\\OOP_lab1_1.csproj|c:\\c# projects\\oop_lab1_1\\oop_lab1_1\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EFC529-88A6-44FC-8176-761831E13369}|OOP_lab1_1\\OOP_lab1_1.csproj|solutionrelative:oop_lab1_1\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EFC529-88A6-44FC-8176-761831E13369}|OOP_lab1_1\\OOP_lab1_1.csproj|c:\\c# projects\\oop_lab1_1\\oop_lab1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EFC529-88A6-44FC-8176-761831E13369}|OOP_lab1_1\\OOP_lab1_1.csproj|solutionrelative:oop_lab1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestTriangle.cs",
+              "DocumentMoniker": "C:\\C# Projects\\OOP_lab1_1\\TestTriangle\\TestTriangle.cs",
+              "RelativeDocumentMoniker": "TestTriangle\\TestTriangle.cs",
+              "ToolTip": "C:\\C# Projects\\OOP_lab1_1\\TestTriangle\\TestTriangle.cs",
+              "RelativeToolTip": "TestTriangle\\TestTriangle.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:28:47.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\C# Projects\\OOP_lab1_1\\OOP_lab1_1\\Triangle.cs",
+              "RelativeDocumentMoniker": "OOP_lab1_1\\Triangle.cs",
+              "ToolTip": "C:\\C# Projects\\OOP_lab1_1\\OOP_lab1_1\\Triangle.cs",
+              "RelativeToolTip": "OOP_lab1_1\\Triangle.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:18:31.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Projects\\OOP_lab1_1\\OOP_lab1_1\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_lab1_1\\Program.cs",
+              "ToolTip": "C:\\C# Projects\\OOP_lab1_1\\OOP_lab1_1\\Program.cs",
+              "RelativeToolTip": "OOP_lab1_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:10:57.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

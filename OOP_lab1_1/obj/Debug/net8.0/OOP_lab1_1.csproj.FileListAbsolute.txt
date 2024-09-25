@@ -1,0 +1,14 @@
+C:\C# Projects\OOP_lab1_1\OOP_lab1_1\bin\Debug\net8.0\OOP_lab1_1.exe
+C:\C# Projects\OOP_lab1_1\OOP_lab1_1\bin\Debug\net8.0\OOP_lab1_1.deps.json
+C:\C# Projects\OOP_lab1_1\OOP_lab1_1\bin\Debug\net8.0\OOP_lab1_1.runtimeconfig.json
+C:\C# Projects\OOP_lab1_1\OOP_lab1_1\bin\Debug\net8.0\OOP_lab1_1.dll
+C:\C# Projects\OOP_lab1_1\OOP_lab1_1\bin\Debug\net8.0\OOP_lab1_1.pdb
+C:\C# Projects\OOP_lab1_1\OOP_lab1_1\obj\Debug\net8.0\OOP_lab1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\OOP_lab1_1\OOP_lab1_1\obj\Debug\net8.0\OOP_lab1_1.AssemblyInfoInputs.cache
+C:\C# Projects\OOP_lab1_1\OOP_lab1_1\obj\Debug\net8.0\OOP_lab1_1.AssemblyInfo.cs
+C:\C# Projects\OOP_lab1_1\OOP_lab1_1\obj\Debug\net8.0\OOP_lab1_1.csproj.CoreCompileInputs.cache
+C:\C# Projects\OOP_lab1_1\OOP_lab1_1\obj\Debug\net8.0\OOP_lab1_1.dll
+C:\C# Projects\OOP_lab1_1\OOP_lab1_1\obj\Debug\net8.0\refint\OOP_lab1_1.dll
+C:\C# Projects\OOP_lab1_1\OOP_lab1_1\obj\Debug\net8.0\OOP_lab1_1.pdb
+C:\C# Projects\OOP_lab1_1\OOP_lab1_1\obj\Debug\net8.0\OOP_lab1_1.genruntimeconfig.cache
+C:\C# Projects\OOP_lab1_1\OOP_lab1_1\obj\Debug\net8.0\ref\OOP_lab1_1.dll
